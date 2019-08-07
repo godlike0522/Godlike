@@ -6,7 +6,12 @@
 
     <groupId>com.godlike.bigdata</groupId>
     <artifactId>Bigdata</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Batch</module>
+        <module>Stream</module>
+    </modules>
 
 
 </project>
